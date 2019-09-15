@@ -1,0 +1,15 @@
+body{
+    background-color: #B0E0E6;
+    font-family: monospace;
+  }
+
+h1 {
+  color: white;
+  background-color: blue;
+}
+
+img {
+  border: 0;
+  height: 350px;
+  width: 500px;
+}
